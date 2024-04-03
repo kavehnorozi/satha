@@ -15,7 +15,5 @@
 آدرس سامانه سمتا:
 
 https://satha.ir
-
-آدرس پنل و داشبورد مدیریت سامانه ساتا:
-
-https://api.satha.ir
+مستندات سامانه ساتا:
+https://www.satha.ir/KnowledgeBase/sathadocument
