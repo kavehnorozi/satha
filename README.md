@@ -15,6 +15,11 @@
 آدرس سامانه سمتا:
 
 https://satha.ir
+
 مستندات سامانه ساتا:
 
 https://www.satha.ir/KnowledgeBase/sathadocument
+
+آدرس swagger سامانه ساتا:
+
+https://api.satha.ir
