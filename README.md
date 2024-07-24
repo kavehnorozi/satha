@@ -23,3 +23,6 @@ https://www.satha.ir/KnowledgeBase/sathadocument
 آدرس swagger سامانه ساتا:
 
 https://api.satha.ir
+
+آدرس سامانه ساتا، مخصوص ارتباط سامانه صدور مجوز
+https://samandehiapi.satha.ir
